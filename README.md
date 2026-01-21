@@ -15,27 +15,30 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ---
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:syedshahriarahmed0@gmail.com" target="blank">
+  <!-- Email -->
+  <a href="mailto:syedshahriarahmed0@gmail.com" target="_blank">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg"
-      height="30" width="40" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      alt="Email" height="30" width="40" />
   </a>
 
-  <a href="https://www.linkedin.com/in/syed-shahriar-ahmed/" target="blank">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/syed-shahriar-ahmed/" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30" width="40" />
+      alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <a href="https://web.facebook.com/shahriar.shihab.021" target="blank">
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/shahriar.shihab.021" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      height="30" width="40" />
+      alt="Facebook" height="30" width="40" />
   </a>
-
-
 </p>
+
 
 ---
 
