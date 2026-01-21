@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **Ahmed15-5729@diu.edu.bd**
+- 📫 How to reach me **syedshahriarahmed0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@shahriar5729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shahriar5729" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syed-shahriar-ahmed-183233208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-shahriar-ahmed-183233208/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shahriar.shihab.021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahriar.shihab.021/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-shahriar-ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-shahriar-ahmed-183233208/" height="30" width="40" /></a>
+<a href="https://web.facebook.com/shahriar.shihab.021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahriar.shihab.021/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_shahriar__shihab_?fbclid=iwar1ncdcquyn6hb16iciscvtznsnkut1azdgroucdx8wdjsafkanil3_jdy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_shahriar__shihab_?fbclid=iwar1ncdcquyn6hb16iciscvtznsnkut1azdgroucdx8wdjsafkanil3_jdy0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/prince15aj13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prince15aj13" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/shahriar5729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shahriar5729" height="30" width="40" /></a>
