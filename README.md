@@ -9,12 +9,11 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
     alt="shahriarshihab5" />
 </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-- 📫 How to reach me **syedshahriarahmed0@gmail.com**
+- 🌱 I’m currently learning **MERN Stack**  
+- 📫 How to reach me **syedshahriarahmed0@gmail.com**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Email -->
@@ -39,70 +38,53 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
   </a>
 </p>
 
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- React -->
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
 
-  <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- Deep Learning (TensorFlow) -->
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-      width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/>
   </a>
 
 </p>
@@ -115,13 +97,29 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
     <img src="https://img.shields.io/badge/Netflix_Clone-React-blue?style=for-the-badge&logo=react" alt="Netflix Clone"/>
   </a>
   <a href="https://github.com/shahriarshihab5/xray-detection" target="_blank">
-    <img src="https://img.shields.io/badge/Xray_Classification-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="X-ray AI Project"/>
+    <img src="https://img.shields.io/badge/Xray_Osteoarthritis-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="X-ray Project"/>
   </a>
-  <a href="https://github.com/shahriarshihab5/pet-adoption-web" target="_blank">
-    <img src="https://img.shields.io/badge/Pet_Adoption-Web-Next.js-blueviolet?style=for-the-badge&logo=next.js" alt="Pet Adoption"/>
+  <a href="https://github.com/shahriarshihab5/shopify-clone" target="_blank">
+    <img src="https://img.shields.io/badge/Shopify_Clone-MERN-brightgreen?style=for-the-badge&logo=shopify" alt="Shopify Clone"/>
+  </a>
+  <a href="https://github.com/shahriarshihab5/gadget-heaven" target="_blank">
+    <img src="https://img.shields.io/badge/Gadget_Heaven-Next.js-blueviolet?style=for-the-badge&logo=next.js" alt="Gadget Heaven"/>
   </a>
 </p>
 
+---
+
+<h3 align="left">Portfolio & Resume:</h3>
+<p align="left">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlesitekit" alt="Portfolio"/>
+  </a>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobat" alt="Resume"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=shahriarshihab5&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
@@ -135,6 +133,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
