@@ -6,7 +6,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shahriarshihab5&label=Profile%20views&color=0e75b6&style=flat"
-    alt="shahriarshihab5" />
+    alt="Profile views" />
 </p>
 
 - 🌱 I’m currently learning **MERN Stack**  
@@ -121,19 +121,8 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 ---
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shahriarshihab5&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarshihab5&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriarshihab5&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarshihab5&theme=tokyonight" alt="GitHub Streak" /></p>
