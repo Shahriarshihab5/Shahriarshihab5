@@ -94,13 +94,13 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <h3 align="left">Some of my Notable Projects:</h3>
 <p align="left">
  
-  <a href="https://github.com/shahriarshihab5/xray-detection" target="_blank">
+  <a href="https://github.com/Shahriarshihab5/osteodetector-frontend" target="_blank">
     <img src="https://img.shields.io/badge/Xray_Osteoarthritis-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="X-ray Project"/>
   </a>
-  <a href="https://github.com/shahriarshihab5/shopify-clone" target="_blank">
+  <a href="https://github.com/Shahriarshihab5/Shopify-inspired-webApp" target="_blank">
     <img src="https://img.shields.io/badge/Shopify_Clone-MERN-brightgreen?style=for-the-badge&logo=shopify" alt="Shopify Clone"/>
   </a>
-  <a href="https://github.com/shahriarshihab5/gadget-heaven" target="_blank">
+  <a href="[https://github.com/shahriarshihab5/gadget-heaven](https://github.com/Shahriarshihab5/Gadget-Heaven)" target="_blank">
     <img src="https://img.shields.io/badge/Gadget_Heaven-Next.js-blueviolet?style=for-the-badge&logo=next.js" alt="Gadget Heaven"/>
   </a>
 </p>
