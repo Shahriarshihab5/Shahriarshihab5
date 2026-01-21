@@ -100,7 +100,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
   <a href="https://github.com/Shahriarshihab5/Shopify-inspired-webApp" target="_blank">
     <img src="https://img.shields.io/badge/Shopify_Clone-MERN-brightgreen?style=for-the-badge&logo=shopify" alt="Shopify Clone"/>
   </a>
-  <a href="[https://github.com/shahriarshihab5/gadget-heaven](https://github.com/Shahriarshihab5/Gadget-Heaven)" target="_blank">
+  <a href="https://github.com/Shahriarshihab5/Gadget-Heaven" target="_blank">
     <img src="https://img.shields.io/badge/Gadget_Heaven-Next.js-blueviolet?style=for-the-badge&logo=next.js" alt="Gadget Heaven"/>
   </a>
 </p>
