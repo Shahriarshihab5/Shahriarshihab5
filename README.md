@@ -55,10 +55,11 @@
   </a>
 
   <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-      alt="Express.js" width="40" height="40"/>
-  </a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    alt="Express.js" width="40" height="40"/>
+</a>
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -73,10 +74,10 @@
   </a>
 
   <!-- Vercel -->
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
-      alt="Vercel" width="40" height="40"/>
-  </a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg"
+    alt="Vercel" width="40" height="40"/>
+</a>
 
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
