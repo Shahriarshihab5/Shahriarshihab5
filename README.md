@@ -54,12 +54,12 @@
       alt="Node.js" width="40" height="40"/>
   </a>
 
-  <!-- Express.js -->
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="Express.js" width="40" height="40"/>
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    alt="MySQL" width="40" height="40"/>
 </a>
+
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -73,11 +73,7 @@
       alt="Deep Learning (TensorFlow)" width="40" height="40"/>
   </a>
 
-  <!-- Vercel -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg"
-    alt="Vercel" width="40" height="40"/>
-</a>
+
 
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
