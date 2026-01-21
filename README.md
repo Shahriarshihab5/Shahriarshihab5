@@ -93,9 +93,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 <h3 align="left">Some of my Notable Projects:</h3>
 <p align="left">
-  <a href="https://github.com/shahriarshihab5/netflix-clone" target="_blank">
-    <img src="https://img.shields.io/badge/Netflix_Clone-React-blue?style=for-the-badge&logo=react" alt="Netflix Clone"/>
-  </a>
+ 
   <a href="https://github.com/shahriarshihab5/xray-detection" target="_blank">
     <img src="https://img.shields.io/badge/Xray_Osteoarthritis-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="X-ray Project"/>
   </a>
@@ -111,10 +109,10 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 <h3 align="left">Portfolio & Resume:</h3>
 <p align="left">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://syed-shahriar-ahmed-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlesitekit" alt="Portfolio"/>
   </a>
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1Lo8s6HYe5Xo02f6RuO2qiUYSsBclfp_m/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobat" alt="Resume"/>
   </a>
 </p>
