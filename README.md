@@ -34,11 +34,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
       height="30" width="40" />
   </a>
 
-  <a href="https://www.instagram.com/_shahriar__shihab_/" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      height="30" width="40" />
-  </a>
+
 </p>
 
 ---
