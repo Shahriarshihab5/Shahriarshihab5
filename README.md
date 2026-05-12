@@ -34,13 +34,13 @@
 
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
-  <a href="https://github.com/Shahriarshihab5/Real-Time-Weather-Intelligence" target="_blank">
+  <a href="https://github.com/Shahriarshihab5/Weather_Report_Dashboard" target="_blank">
     <img src="https://img.shields.io/badge/Weather_Intelligence-Power_BI-yellow?style=for-the-badge" alt="Weather Dashboard"/>
   </a>
-  <a href="https://github.com/Shahriarshihab5/HR-Analytics-Dashboard" target="_blank">
+  <a href="https://github.com/Shahriarshihab5/HR-Attrition-Analysis-PowerBI" target="_blank">
     <img src="https://img.shields.io/badge/HR_Analytics-Attrition_Data-blue?style=for-the-badge" alt="HR Dashboard"/>
   </a>
-  <a href="https://github.com/Shahriarshihab5/osteodetector-frontend" target="_blank">
+  <a href="https://github.com/Shahriarshihab5/osteodetector-backend" target="_blank">
     <img src="https://img.shields.io/badge/AI_Diagnostic_System-Deep_Learning-red?style=for-the-badge" alt="AI Project"/>
   </a>
 </p>
